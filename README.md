@@ -1,2 +1,2 @@
 # studies-javascript
-Estudos em JavaScript
+Estudos em JavaScript - Digital Innovation One
